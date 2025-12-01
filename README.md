@@ -6,7 +6,7 @@ Each project is accompanied by a corresponding HackMD note that I wrote, with di
 ### Labs
 
 - [Lab 3-1 LED shining](https://hackmd.io/folders/8fgZ_prnFXsui_hy1i65K?nav=overview)
-- [Lab 5-1 Through-Beam Infrared Sensor Counter](https://hackmd.io/CoJTWT_MQ1iD_sZe-CMixw)
+- [Lab 5 Through-Beam Infrared Sensor Counter & Rotary Encoder counter](https://hackmd.io/CoJTWT_MQ1iD_sZe-CMixw)
 
 ### Other notes
 - [GPIO](https://hackmd.io/zKMIrOQmTPSiBh-9zobYBg)

@@ -1,0 +1,15 @@
+Objects/
+DebugConfig/
+Library/
+Start/
+Listings/
+
+# Keil specific
+*.uvguix.* 
+*.uvoptx
+*.uvprojx
+*.axf
+*.htm
+*.map
+*.uvguix
+*.lnp
