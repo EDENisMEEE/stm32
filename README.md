@@ -11,4 +11,5 @@ Each project is accompanied by a corresponding HackMD note that I wrote, with di
 ### Other notes
 - [GPIO](https://hackmd.io/zKMIrOQmTPSiBh-9zobYBg)
 - [EXTI](https://hackmd.io/Reeq3GqCRHeCKBHq5TsKQw)
+- [TMI timer](https://hackmd.io/R2usXtLwRiiGXN9key1eUw)
 - [Other peripherals](https://hackmd.io/wCedGlxCRtSE48ets5RD1A)
